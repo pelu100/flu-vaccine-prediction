@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+missingno
+scikit-learn
+lightgbm
+xgboost
+optuna
+shap
+joblib
+jupyter
+ipykernel

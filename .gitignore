@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Competition data — not redistributable per DrivenData's terms.
+# See README.md for instructions on how to download it yourself.
+data/*.csv
+data/*.zip
+
+*.csv
+# OS / editor
+.DS_Store
+.vscode/
+
+# Streamlit local secrets (if ever added)
+.streamlit/secrets.toml
