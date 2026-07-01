@@ -6,7 +6,7 @@ competition, predicting the probability that a respondent of the 2009
 National H1N1 Flu Survey received the H1N1 vaccine and/or the seasonal flu
 vaccine.
 
-**🔗 Live interactive demo:** [Streamlit app](#) *(link pending deployment)*
+**🔗 Live interactive demo:** [Streamlit app](#) *(https://diego-flu-vaccine-prediction.streamlit.app/)*
 **📓 Full analysis notebook:** [`EDA.ipynb`](./EDA.ipynb)
 
 ---
